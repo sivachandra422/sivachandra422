@@ -13,12 +13,13 @@ Currently learning DevSecOps and infrastructure automation.
 
 ---
 
-## Projects
+## Featured projects
 
-| Project | What it is |
-|---|---|
-| [ai-trading-agents](https://github.com/sivachandra422/ai-trading-agents) | Learning project — multi-agent trading system built with AI assistance |
-| Restaurant Platform | Real-world ordering and admin platform (private repo) |
+| Project | What it does | Stack |
+
+| [Jarvis Ironman AI](https://github.com/sivachandra422/jarvis-ironman-ai) | Local voice-first desktop assistant with wake-word listening, Gemini tool calling, TTS, memory, and HUD UI | Python, Gemini, PyQt |
+| Restaurant Platform | Private restaurant ordering/admin platform with real-time features and AI integrations | Next.js, TypeScript, MongoDB |
+
 
 ---
 
