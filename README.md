@@ -18,7 +18,7 @@ Currently learning DevSecOps and infrastructure automation.
 | Project | What it does | Stack |
 
 | [Jarvis Ironman AI](https://github.com/sivachandra422/jarvis-ironman-ai) | Local voice-first desktop assistant with wake-word listening, Gemini tool calling, TTS, memory, and HUD UI | Python, Gemini, PyQt |
-| Restaurant Platform | Private restaurant ordering/admin platform with real-time features and AI integrations | Next.js, TypeScript, MongoDB |
+| [Restaurant Platform](https://github.com/sivachandra422/Restaurant) | Private restaurant ordering/admin platform with real-time features and AI integrations | Next.js, TypeScript, MongoDB |
 
 
 ---
